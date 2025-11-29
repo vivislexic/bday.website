@@ -65,8 +65,8 @@ bday.website/
 To personalize the birthday message:
 
 1. **Edit the HTML content** in `index.html`:
-   - Replace `(add_Birthday_Person_Name)` with the person's name
-   - Update `(add_day_here)` and `(add_month_here)` with birthday details
+   - Replace `(Pratik )` with the person's name
+   - Update `(30)` and `(November)` with birthday details
    - Modify the date in the code section
 
 2. **Customize styling** in `css/default.css`:
@@ -152,7 +152,7 @@ Update the HTML in `index.html`:
 ```html
 <div id="messages">
     <div id="loveu">
-        Your custom birthday message here!
+        Happiest Birthday Baby. You're the best. MWAAHHHHHH!!!!
     </div>
 </div>
 ```
